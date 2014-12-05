@@ -1,3 +1,4 @@
 Easy git command
 
 add modified bookmark
+pull get content
